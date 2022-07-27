@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<root>
+
+        <questao>
+          <pergunta>Quanto é 2+2?</pergunta>
+          <alternativa1>12</alternativa1>
+          <alternativa2>10</alternativa2>
+          <alternativa3>42</alternativa3>
+          <alternativa4>4</alternativa4>
+          <resposta>4</resposta>
+        </questao>
+
+        <questao>
+          <pergunta>Qual a cor do Sol?</pergunta>
+          <alternativa1>Amarelo</alternativa1>
+          <alternativa2>Preto</alternativa2>
+          <alternativa3>Verde</alternativa3>
+          <alternativa4>Azul</alternativa4>
+          <resposta>Amarelo</resposta>
+        </questao>
+
+        <questao>
+          <pergunta>Qual a capital do Ceará?</pergunta>
+          <alternativa1>Rio de Janeiro</alternativa1>
+          <alternativa2>Fortaleza</alternativa2>
+          <alternativa3>Marcanaú</alternativa3>
+          <alternativa4>Salvador</alternativa4>
+          <resposta>Fortaleza</resposta>
+        </questao>
+
+        <questao>
+          <pergunta>Quem nasce em Portugal é ?</pergunta>
+          <alternativa1>Brasileiro</alternativa1>
+          <alternativa2>Alemão</alternativa2>
+          <alternativa3>Português</alternativa3>
+          <alternativa4>Arabe</alternativa4>
+          <resposta>Português</resposta>
+        </questao>
+
+        <questao>
+          <pergunta>Onde morava Artion Sennsa ?</pergunta>
+          <alternativa1>Rio de Janeiro</alternativa1>
+          <alternativa2>Fortaleza</alternativa2>
+          <alternativa3>Alemanha</alternativa3>
+          <alternativa4>São Paulo</alternativa4>
+          <resposta>Rio de Janeiro</resposta>
+        </questao>
+
+        <questao>
+          <pergunta>Qual maior rio do Mundo ?</pergunta>
+          <alternativa1>Rio Sena</alternativa1>
+          <alternativa2>Rio Maranguapinho</alternativa2>
+          <alternativa3>Rio Amazonas</alternativa3>
+          <alternativa4>Rio Tejo</alternativa4>
+          <resposta>Rio Amazonas</resposta>
+        </questao>
+
+        <questao>
+          <pergunta>Quem é o presidente mais burro do mundo ?</pergunta>
+          <alternativa1>Barak Obama</alternativa1>
+          <alternativa2>Jair Bolsonaro</alternativa2>
+          <alternativa3>Evo Morales</alternativa3>
+          <alternativa4>Wladimor Putin</alternativa4>
+          <resposta>Jair Bolsonaro</resposta>
+        </questao>
+
+        <questao>
+          <pergunta>Brasil ganhou quantas copas?</pergunta>
+          <alternativa1>5</alternativa1>
+          <alternativa2>6</alternativa2>
+          <alternativa3>4</alternativa3>
+          <alternativa4>3</alternativa4>
+          <resposta>5</resposta>
+        </questao>
+
+
+
+
+
+</root>
